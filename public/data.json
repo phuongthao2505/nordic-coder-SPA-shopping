@@ -1,0 +1,130 @@
+{
+  "status": {
+    "success": true,
+    "total": 12,
+    "page": 1,
+    "pageSize": 12
+  },
+  "data": [
+    {
+      "id": "1",
+      "name": "Chair",
+      "image": "./assets/pro1.jpg",
+      "image2": "./assets/pro2.jpg",
+      "category": "furniture",
+      "discountPrice": 20.00,
+      "price": 30.00,
+      "unitSold": 123
+    },
+    {
+      "id": "2",
+      "name": "Table",
+      "image": "./assets/pro2.jpg",
+      "image2": "./assets/pro3.jpg",
+      "category": "furniture",
+      "discountPrice": 100.00,
+      "price": 150.00,
+      "unitSold": 16
+    },
+    {
+      "id": "3",
+      "name": "Lamb",
+      "image": "./assets/pro3.jpg",
+      "image2": "./assets/pro4.jpg",
+      "category": "furniture",
+      "discountPrice": 10.00,
+      "price": 12.00,
+      "unitSold": 300
+    },
+    {
+      "id": "4",
+      "name": "Book Shelf",
+      "image": "./assets/pro4.jpg",
+      "image2": "./assets/pro5.jpg",
+      "category": "furniture",
+      "discountPrice": 150.00,
+      "price": 175.00,
+      "unitSold": 87
+    },
+    {
+      "id": "5",
+      "name": "Sofa",
+      "image": "./assets/pro5.jpg",
+      "image2": "./assets/pro6.jpg",
+      "category": "furniture",
+      "discountPrice": 199.00,
+      "price": 249.00,
+      "unitSold": 98
+    },
+    {
+      "id": "6",
+      "name": "Stool",
+      "image": "./assets/pro6.jpg",
+      "image2": "./assets/pro7.jpg",
+      "category": "furniture",
+      "discountPrice": 20.00,
+      "price": 25.00,
+      "unitSold": 1001
+    },
+    {
+      "id": "7",
+      "name": "Cup Board",
+      "image": "./assets/pro7.jpg",
+      "image2": "./assets/pro8.jpg",
+      "category": "furniture",
+      "discountPrice": 140.00,
+      "price": 200.00,
+      "unitSold": 21
+    },
+    {
+      "id": "8",
+      "name": "Photo Frame",
+      "image": "./assets/pro8.jpg",
+      "image2": "./assets/pro9.jpg",
+      "category": "furniture",
+      "discountPrice": 5.00,
+      "price": 12.00,
+      "unitSold": 841
+    },
+    {
+      "id": "9",
+      "name": "Mirror",
+      "image": "./assets/pro9.jpg",
+      "image2": "./assets/pro1.jpg",
+      "category": "furniture",
+      "discountPrice": 50.00,
+      "price": 60.00,
+      "unitSold": 235
+    },
+    {
+      "id": "10",
+      "name": "Fan",
+      "image": "./assets/pro9.jpg",
+      "image2": "./assets/pro1.jpg",
+      "category": "furniture",
+      "discountPrice": 230.00,
+      "price": 265.00,
+      "unitSold": 2533
+    },
+    {
+      "id": "11",
+      "name": "Aquarium",
+      "image": "./assets/pro11.jpg",
+      "image2": "./assets/pro12.jpg",
+      "category": "furniture",
+      "discountPrice": 119.00,
+      "price": 230.00,
+      "unitSold": 23
+    },
+    {
+      "id": "12",
+      "name": "Dressers",
+      "image": "./assets/pro10.jpg",
+      "image2": "./assets/pro11.jpg",
+      "category": "furniture",
+      "discountPrice": 110.00,
+      "price": 190.00,
+      "unitSold": 88
+    }
+  ]
+}
